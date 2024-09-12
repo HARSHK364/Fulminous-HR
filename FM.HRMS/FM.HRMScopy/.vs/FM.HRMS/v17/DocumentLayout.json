@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D549DF6D-BF80-4042-A4FC-80D6295127CC}|..\\FMHRS.Persistance\\FM.HRMS.Persistance.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fmhrs.persistance\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\hr managemnet systems.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:hr managemnet systems.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\FM.HRMS.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FM.HRMS.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\controllers\\hrcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:controllers\\hrcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\repository\\jobservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:repository\\jobservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\repository\\applicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:repository\\applicantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\repository\\hrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:repository\\hrrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\services\\jwt_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:services\\jwt_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\controllers\\account1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:controllers\\account1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Migrations\\20240911184316_First-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\dto\\account1\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:dto\\account1\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\dto\\account1\\companyregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:dto\\account1\\companyregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\fm.hrms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:fm.hrms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\dto\\account1\\companyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:dto\\account1\\companyuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|c:\\users\\harsh\\onedrive\\desktop\\mainproject\\fm.hrms\\fm.hrmscopy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3843DD01-268E-4FB9-93B1-910F9B473559}|FM.HRMS.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\HRDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FMHRS.Persistance\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\FMHRS.Persistance\\Class1.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FMHRS.Persistance\\Class1.cs",
+              "RelativeToolTip": "..\\FMHRS.Persistance\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:54:06.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FM.HRMS.csproj.user",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\FM.HRMS.csproj.user",
+              "RelativeDocumentMoniker": "FM.HRMS.csproj.user",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\FM.HRMS.csproj.user",
+              "RelativeToolTip": "FM.HRMS.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-09-12T05:54:06.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T18:12:15.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRContoller.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\HRContoller.cs",
+              "RelativeDocumentMoniker": "Controllers\\HRContoller.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\HRContoller.cs",
+              "RelativeToolTip": "Controllers\\HRContoller.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwIcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:28:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "jwt_company.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Services\\jwt_company.cs",
+              "RelativeDocumentMoniker": "Services\\jwt_company.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Services\\jwt_company.cs",
+              "RelativeToolTip": "Services\\jwt_company.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:30:45.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicantController.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "Controllers\\ApplicantController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwDYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:29:59.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HR Managemnet Systems.http",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\HR Managemnet Systems.http",
+              "RelativeDocumentMoniker": "HR Managemnet Systems.http",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\HR Managemnet Systems.http",
+              "RelativeToolTip": "HR Managemnet Systems.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-11T18:12:46.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\JobServiceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\JobServiceRepository.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\JobServiceRepository.cs",
+              "RelativeToolTip": "Repository\\JobServiceRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:29:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Applicant.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FMHRS.Persistance\\Models\\Applicant.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Applicant.cs",
+              "RelativeToolTip": "..\\..\\..\\FMHRS.Persistance\\Models\\Applicant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:02:48.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\ApplicantRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicantRepository.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\ApplicantRepository.cs",
+              "RelativeToolTip": "Repository\\ApplicantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:04:44.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Account1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\Account1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Account1Controller.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\Account1Controller.cs",
+              "RelativeToolTip": "Controllers\\Account1Controller.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:44:27.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HRRepository.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\HRRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\HRRepository.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Repository\\HRRepository.cs",
+              "RelativeToolTip": "Repository\\HRRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:29:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FMHRS.Persistance\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Models\\Company.cs",
+              "RelativeToolTip": "..\\..\\..\\FMHRS.Persistance\\Models\\Company.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:23:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FMHRS.Persistance\\Class1.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\FMHRS.Persistance\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:18:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HRDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\HRDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FMHRS.Persistance\\HRDBContext.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\HRDBContext.cs",
+              "RelativeToolTip": "..\\..\\..\\FMHRS.Persistance\\HRDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:55:58.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T18:16:16.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwFIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:04:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Account1\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\Account1\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:33:43.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CompanyRegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\CompanyRegisterDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Account1\\CompanyRegisterDTO.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\CompanyRegisterDTO.cs",
+              "RelativeToolTip": "DTO\\Account1\\CompanyRegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:38:45.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240911184316_First-migration.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Migrations\\20240911184316_First-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\FMHRS.Persistance\\Migrations\\20240911184316_First-migration.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\FMHRS.Persistance\\Migrations\\20240911184316_First-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\FMHRS.Persistance\\Migrations\\20240911184316_First-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:43:16.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FM.HRMS",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\FM.HRMS.csproj",
+              "RelativeDocumentMoniker": "FM.HRMS.csproj",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\FM.HRMS.csproj",
+              "RelativeToolTip": "FM.HRMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T18:13:04.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompanyUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\CompanyUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Account1\\CompanyUserDTO.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\DTO\\Account1\\CompanyUserDTO.cs",
+              "RelativeToolTip": "DTO\\Account1\\CompanyUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:42:39.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\MainProject\\FM.HRMS\\FM.HRMScopy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:19:37.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

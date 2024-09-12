@@ -1,0 +1,12 @@
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\bin\Debug\net8.0\FM.HRMS.Persistance.deps.json
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\bin\Debug\net8.0\FM.HRMS.Persistance.dll
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\bin\Debug\net8.0\FM.HRMS.Persistance.pdb
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.AssemblyInfoInputs.cache
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.AssemblyInfo.cs
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.dll
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\refint\FM.HRMS.Persistance.dll
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\FM.HRMS.Persistance.pdb
+C:\Users\harsh\OneDrive\Desktop\MainProject\FM.HRMS\FMHRS.Persistance\obj\Debug\net8.0\ref\FM.HRMS.Persistance.dll
